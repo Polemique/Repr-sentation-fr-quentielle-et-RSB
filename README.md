@@ -1,1 +1,1 @@
-# Repr-sentation-fr-quentielle-et-RSB
+# Représentation-fréquentielle-et-RSB
